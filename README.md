@@ -5,9 +5,13 @@ The APIs are tested using Postman.
 
 # Tech Stack
 Language: Java
+
 Framework: Spring Boot, Spring Boot JDBC
+
 Build Tool: Maven
+
 Database: MySQL 
+
 IDE: Eclipse STS (Spring Tool Suite)
 
 # Features
